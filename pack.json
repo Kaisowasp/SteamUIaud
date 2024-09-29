@@ -1,0 +1,10 @@
+{
+  "name": "Lake PKMN:BDSP",
+  "description": "Lake song from pokemon brilliant diamond / shining pearl.",
+  "author": "Kaisowasp",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
